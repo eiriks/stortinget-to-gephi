@@ -48,5 +48,6 @@ du lister ut så mange måneder som du selv vil. Dette lager en .gexf-fil. Denne
 #Instructions
 Instruktions for this code is in Norwegian only. Sorry.
 http://translate.google.com/
+.. the code is written and documented in English though.
 
  
