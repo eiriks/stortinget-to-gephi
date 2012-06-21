@@ -13,6 +13,9 @@ sdist
 develop-eggs
 .installed.cfg
 
+# skip txt-files
+*.txt
+
 # Installer logs
 pip-log.txt
 
